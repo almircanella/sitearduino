@@ -1,0 +1,29 @@
+body{
+	background-image: url(RaspWallpaper.jpg);
+	background-repeat: no-repeat;
+	background-size:cover;
+	background-attachment: fixed;
+	background-color: black;
+}
+h1{color: yellow;font-size:50px}
+h2{color: yellow;font-size:40px}
+h3{color: yellow;font-size:40px}
+h4{color: yellow;font-size:40px}
+h5{color: yellow;font-size:40px}
+legend{color: red;font-size: 50px}
+label{color: pink:font-size:30px}
+
+p{color: white;font-size:25px}
+img {
+	height: 50%;
+	width:50%;
+	border-style: solid;
+	border-color: black;
+}
+navbar{
+	color: blue;
+	height: 50px;
+	background-color: white;
+
+}
+
